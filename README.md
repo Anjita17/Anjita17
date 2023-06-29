@@ -1,3 +1,4 @@
+![logo](https://github.com/Anjita17/Anjita17/blob/main/Screenshot%202023-06-29%20145303.png)
 <h1 align="center">Hi 👋, I'm Anjita Chatterjee</h1>
 <h3 align="center">A beginner in the Tech World with keen interest to learn and grow. Trying to upgrade my skills everyday.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" >
